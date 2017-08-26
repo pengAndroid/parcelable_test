@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParcelableTest</string>
+    <string name="to_parcelable">parcelable传递对象</string>
+</resources>
